@@ -37,7 +37,7 @@ If necessary, please make a backup in advance to avoid unnecessary consequences.
 
 ## One command installation & upgrade
 ```
-bash <(curl -Ls https://blog.sprov.xyz/v2-ui.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/N3Y-C/v2ray-ui/main/install.sh)
 ```
 
 # Other operations
